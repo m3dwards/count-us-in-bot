@@ -13,4 +13,4 @@ tokio = { version =  "1.8", features = ["rt-multi-thread", "macros"] }
 
 [[bin]]
 name = "count-us-in-bot"
-path = "main.rs"
+path = "src/main.rs"
